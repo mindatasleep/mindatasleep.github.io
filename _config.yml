@@ -25,19 +25,19 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: # your GitHub user name
+github_username: mindatasleep # your GitHub user name
 twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+linkedin_username: plinioguzman  # your LinkedIn user name
+scholar_userid: VZ-FEc0AAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
-medium_username: # your Medium username
+medium_username: pgzmnk # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  (Email is best.)
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -61,7 +61,7 @@ text:
 disqus_shortname: al-folio # put your disqus shortname
 
 # Optional features
-show_social_icons:  false
+show_social_icons:  true
 enable_anchorjs:    false
 enable_katex:       true
 

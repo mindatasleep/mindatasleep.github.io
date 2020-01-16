@@ -16,8 +16,9 @@ news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Beyond the Bio…
+At a young age, I was fascinated by technology and travel. Without a doubt influenced by my grandparents. I remember my 4th-grade teacher, Ms. Dickson, once underlined the distinction between knowing what an airplane does and understanding how it functions. This concept raptured my mind. Aircraft continue to intrigue me, and a love for technology and the world continue to unravel a curiosity for how the innards of human consciousness interrelate with the environment.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Having worked in engineering projects internationally with top-level organizations gives me a leading experience both in mechanical engineering and data science. In addition, a background in athletics and training make me a nerd for health and performance.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Most of my time is spent growing in my field, training for ultramarathons, and reading.
