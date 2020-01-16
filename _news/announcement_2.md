@@ -17,7 +17,6 @@ This is what I'm reading:
     <li>Meaning of culture.</li>
 </ul>
 
-
 ***
 
 
